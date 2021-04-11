@@ -1,7 +1,7 @@
 # Twitter_Scrape_Sentiment_Analysis
 Scrape tweets for a particular search item and perform sentiment analysis on it with visualization
 
-Libraries used in this project are:
+# Libraries used in this project are:
 1- tweepy
 2- textblob 
 3- matplotlib.pyplot as plt
@@ -9,7 +9,7 @@ Libraries used in this project are:
 5- nltk.tokenize import word_tokenize
 
 
-Procedure:
+# Procedure:
 1- scrape data using tweepy(TwitterAPI)
    [What is an API in simple terms? An API is essentially a messenger that takes requests, translates, and returns responses. When you sit down to order at a restaurant, the waiter takes your order, relays it to the kitchen, and returns with your food. In this scenario, the waiter acts as the API, or intermediary]
 
@@ -23,4 +23,8 @@ Procedure:
 5- Calculating the Polarity and Subjectivity of the text.
 
 6- Visualizing the percentage of polarity throuth matplotlib library.
+
+# Output:
+!(one.png)
+!(two.png)
 
