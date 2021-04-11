@@ -25,6 +25,6 @@ Scrape tweets for a particular search item and perform sentiment analysis on it 
 6- Visualizing the percentage of polarity throuth matplotlib library.
 
 # Output:
-!(one.png)
-!(two.png)
+![Screenshot](one.png)
+![Screenshot2](two.png)
 
